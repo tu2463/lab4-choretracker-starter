@@ -25,39 +25,6 @@
           null
         ]
       },
-      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/task.rb": {
-        "lines": [
-          1,
-          null,
-          null,
-          null,
-          1,
-          1,
-          null,
-          1,
-          1,
-          null,
-          2,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/application_record.rb": {
-        "lines": [
-          1,
-          1,
-          null
-        ]
-      },
-      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/chore.rb": {
-        "lines": [
-          1,
-          1,
-          1,
-          null
-        ]
-      },
       "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/child.rb": {
         "lines": [
           1,
@@ -72,6 +39,56 @@
           null,
           1,
           0,
+          null,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/task.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/chore.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          2,
+          2,
+          2,
+          2,
+          2,
+          2,
+          null,
+          1,
+          2,
+          1,
+          null,
+          1,
+          null,
           null,
           null
         ]
@@ -359,6 +376,6 @@
         }
       }
     },
-    "timestamp": 1707266445
+    "timestamp": 1707268786
   }
 }
