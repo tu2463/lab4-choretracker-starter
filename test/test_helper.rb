@@ -1,6 +1,7 @@
-# TODO: SimpleCov required here...
-
-
+# TODO: SimpleCov required here... 
+# a gem which will give us basic test coverage statistics
+require 'simplecov'
+SimpleCov.start 'rails'
 
 ENV["RAILS_ENV"] ||= "test"
 require_relative "../config/environment"
@@ -25,7 +26,7 @@ class ActiveSupport::TestCase
   #
   # Note: You'll currently still have to declare fixtures explicitly in integration tests
   # -- they do not yet inherit this setting
-  fixtures :all
+  # fixtures :all
 
   # Add more helper methods to be used by all tests here...
   # Prof. H's helper method to increase readability
