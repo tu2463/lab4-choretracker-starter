@@ -5,8 +5,13 @@ class ChildTest < ActiveSupport::TestCase
   #   assert true
   # end
 
+  # relationships
   should have_many(:chores)
   should have_many(:tasks).through(:chores)
+  
+  # validations
+  should validate_presence_of(:first_name)
+  should validate_presence_of(:last_name)
 
   context "Creating a child context" do
     setup do

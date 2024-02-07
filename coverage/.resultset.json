@@ -28,6 +28,11 @@
       "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/child.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null,
+          1,
+          1,
           null
         ]
       },
@@ -35,6 +40,22 @@
         "lines": [
           1,
           1,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/chore.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/task.rb": {
+        "lines": [
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -319,24 +340,8 @@
         ],
         "branches": {
         }
-      },
-      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/chore.rb": {
-        "lines": [
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/task.rb": {
-        "lines": [
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1707265007
+    "timestamp": 1707265743
   }
 }
