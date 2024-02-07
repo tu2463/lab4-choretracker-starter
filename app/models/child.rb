@@ -11,4 +11,9 @@ class Child < ApplicationRecord
     def name
         "#{first_name} #{last_name}"
     end
+
+    def points_earned
+        completed_chores = chores.where(completed: true)
+        completed_chores.joins(:task).sum('tasks.points')
+    end
 end

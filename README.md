@@ -316,7 +316,7 @@ Rails Console is a great way to test your models informally or to debug issues t
 
   **Once these tests all pass, merge the code back into the `main` branch.**
 
-14. Now go back to the Child model and create a new method called `points_earned` that returns the points a child has earned for completed chores. Below is the test this method should pass and note that we didn't create tasks and chores in setup (_all tests don't need them_), we have to do so for this one test. (Be sure to add this to `test/models/child_test.rb)`
+14. Now go back to the Child model and create a new method called `points_earned` that returns the points a child has earned for completed chores. Below is the test this method should pass and note that we didn't create tasks and chores in setup (_all tests don't need them_), we have to do so for this one test. (Be sure to add this to `test/models/child_test.rb`)
 
     ```ruby
     should "have a method to add points earned by a person" do
