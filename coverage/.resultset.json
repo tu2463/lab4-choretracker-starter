@@ -1,0 +1,342 @@
+{
+  "Unit Tests": {
+    "coverage": {
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/helpers/children_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/helpers/chores_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/helpers/tasks_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/child.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/controllers/children_controller.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/controllers/chores_controller.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/controllers/tasks_controller.rb": {
+        "lines": [
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/chore.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/tucheyu/Desktop/Go Tartans/67272/Labs/Lab4/lab4-choretracker-starter/app/models/task.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1707265007
+  }
+}
